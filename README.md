@@ -1,2 +1,2 @@
-# .github
+# cog.land
 ^3^
